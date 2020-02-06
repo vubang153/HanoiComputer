@@ -10,6 +10,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HanoiComputerSolution.Application", "HanoiComputerSolution.Application\HanoiComputerSolution.Application.csproj", "{B7271A12-FDE4-45E7-B968-16AAAF0D342C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HanoiComputerSolution.Data", "HanoiComputerSolution.Data\HanoiComputerSolution.Data.csproj", "{59C041C6-0BDD-48D4-A40F-1BDAB707F40C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +24,14 @@ Global
 		{C049C5D9-7259-4924-AF13-32A810B4E721}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C049C5D9-7259-4924-AF13-32A810B4E721}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C049C5D9-7259-4924-AF13-32A810B4E721}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7271A12-FDE4-45E7-B968-16AAAF0D342C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7271A12-FDE4-45E7-B968-16AAAF0D342C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7271A12-FDE4-45E7-B968-16AAAF0D342C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7271A12-FDE4-45E7-B968-16AAAF0D342C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59C041C6-0BDD-48D4-A40F-1BDAB707F40C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59C041C6-0BDD-48D4-A40F-1BDAB707F40C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59C041C6-0BDD-48D4-A40F-1BDAB707F40C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59C041C6-0BDD-48D4-A40F-1BDAB707F40C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
